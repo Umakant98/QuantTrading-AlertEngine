@@ -1,1 +1,4 @@
-# test_signal_engine.py content goes here
+Signal tests
+
+def test_placeholder():
+    assert True

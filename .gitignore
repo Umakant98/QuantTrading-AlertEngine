@@ -1,1 +1,4 @@
-# .gitignore content goes here
+# Python dependencies
+numpy
+pandas
+pytest

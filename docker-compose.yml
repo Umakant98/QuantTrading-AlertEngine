@@ -1,1 +1,8 @@
-# docker-compose.yml content goes here
+# Docker Compose for Alert Engine
+
+version: '3.8'
+
+services:
+  alert_engine:
+    build: .
+    # implementation details
